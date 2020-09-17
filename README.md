@@ -1,7 +1,6 @@
 <!--
 **yttrion/yttrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 <h1 align="center">Hi 👋, I'm Pierre-Yves</h1>
 <h3 align="center">An french engineering student</h3>
 
@@ -13,19 +12,7 @@
 - Pentesting
 - Ruby
 
-## 📫 How to reach me
-<p align="center">
-	<a href="https://twitter.com/pydouault" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pydouault" height="30" width="30" />
-	</a>
-	<a href="https://instagram.com/pydouault" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pydouault" height="30" width="30" />
-	</a>
-</p>
-
-
-
-<!--Languages logos-->
+## :computer: Languages / Platforms
 <p align="left">
  	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   	<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -46,7 +33,6 @@
   	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-
 <p>
   	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yttrion&layout=compact&theme=vue" alt="yttrion" />
 </p>
@@ -54,4 +40,18 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=yttrion&show_icons=true&theme=vue" alt="yttrion" />
 </p>
 
-
+## 📫 How to reach me
+<p align="center">
+	<a href="https://twitter.com/pydouault" target="blank">
+		<img align="center" src="assets/twitter.svg" alt="pydouault" height="35" width="35" />
+	</a>
+	<a href="https://instagram.com/pydouault" target="blank">
+		<img align="center" src="assets/instagram.svg" alt="pydouault" height="35" width="35" />
+	</a>
+	<a href="https://fr.linkedin.com/in/pierre-yves-douault-a1a8b8182" target="blank">
+		<img align="center" src="assets/linkedin.svg" alt="pydouault" height="30" width="30" />
+	</a>
+	<a href="mailto:pierreyvesdouault@protonmail.com" target="blank">
+		<img align="center" src="assets/email.svg" alt="pydouault" height="35" width="35" />
+	</a>
+</p>
