@@ -5,8 +5,10 @@
 <h3 align="center">An french engineering student</h3>
 
 ## :book: About me:
-
-
+- Engineering student at [ESEO](https://eseo.fr/en/)
+- Studying Cloud, Systems and Security
+- Currently workint at [Maynooth University](https://www.maynoothuniversity.ie/) and [IVI](https://ivi.ie)
+- btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 ## 🌱 I'm currently learning:
 - Haskell
 - Pentesting
@@ -34,24 +36,24 @@
 </p>
 
 <p>
-  	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yttrion&layout=compact&theme=vue" alt="yttrion" />
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yttrion&layout=compact&theme=vue" alt="yttrion" />
 </p>
-<p>&nbsp;
+<p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=yttrion&show_icons=true&theme=vue" alt="yttrion" />
 </p>
 
 ## 📫 How to reach me
 <p align="center">
 	<a href="https://twitter.com/pydouault" target="blank">
-		<img align="center" src="assets/twitter.svg" alt="pydouault" height="35" width="35" />
+		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/twitter.svg" alt="pydouault" height="35" width="35" />
 	</a>
 	<a href="https://instagram.com/pydouault" target="blank">
-		<img align="center" src="assets/instagram.svg" alt="pydouault" height="35" width="35" />
+		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/instagram.svg" alt="pydouault" height="35" width="35" />
 	</a>
 	<a href="https://fr.linkedin.com/in/pierre-yves-douault-a1a8b8182" target="blank">
-		<img align="center" src="assets/linkedin.svg" alt="pydouault" height="30" width="30" />
+		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/linkedin.svg" alt="pydouault" height="30" width="30" />
 	</a>
 	<a href="mailto:pierreyvesdouault@protonmail.com" target="blank">
-		<img align="center" src="assets/email.svg" alt="pydouault" height="35" width="35" />
+		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/email.svg" alt="pydouault" height="35" width="35" />
 	</a>
 </p>
