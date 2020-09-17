@@ -15,32 +15,28 @@
 - Ruby
 
 ## :computer: Languages / Platforms
-<p align="left">
- 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  	<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  	<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
-  	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
 
-<p>
-  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yttrion&layout=compact&theme=vue" alt="yttrion" />
-</p>
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=yttrion&show_icons=true&theme=vue" alt="yttrion" />
-</p>
+
+![C](https://img.shields.io/badge/-C-1AA946?style=for-the-badge&logo=c&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)
+![Haskell](https://img.shields.io/badge/-Haskell-D8D8D8?style=for-the-badge&logo=haskell&logoColor=000000)
+![HTML](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=php&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-1d97e2?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![Vim](https://img.shields.io/badge/-Vim-3c873a?style=for-the-badge&logo=vim&logoColor=ffffff)
+![Latex](https://img.shields.io/badge/-Latex-1bc0b7?style=for-the-badge&logo=latex&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-1075da?style=for-the-badge&logo=windows&logoColor=ffffff)
+![OSX](https://img.shields.io/badge/-OSX-cfd0d0?style=for-the-badge&logo=apple&logoColor=000000)
+![Linux](https://img.shields.io/badge/-Linux-ffa600?style=for-the-badge&logo=linux&logoColor=ffffff)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-fa3f05?style=for-the-badge&logo=freebsd&logoColor=ffffff)
+
+
 
 ## 📫 How to reach me
 <p align="center">
