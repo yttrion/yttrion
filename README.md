@@ -47,12 +47,6 @@
 
 ## 📫 How to reach me
 <p align="center">
-	<a href="https://twitter.com/pydouault" target="blank">
-		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/twitter.svg" alt="pydouault" height="35" width="35" />
-	</a>
-	<a href="https://instagram.com/pydouault" target="blank">
-		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/instagram.svg" alt="pydouault" height="35" width="35" />
-	</a>
 	<a href="https://fr.linkedin.com/in/pierre-yves-douault-a1a8b8182" target="blank">
 		<img align="center" src="https://github.com/yttrion/yttrion/blob/master/assets/linkedin.svg" alt="pydouault" height="30" width="30" />
 	</a>
