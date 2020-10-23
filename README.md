@@ -12,7 +12,13 @@
 ## 🌱 I'm currently learning:
 - Haskell
 - Pentesting
-- Ruby
+- Vimscript
+## :gear: I'm working on
+- <a href="https://github.com/yttrion/doomnvim">doomnvim</a> - A neovim distribution for the enhanced martian hacker
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=yttrion&show_icons=true&theme=default" />
+</p>
 
 ## :computer: Languages / Platforms
 
