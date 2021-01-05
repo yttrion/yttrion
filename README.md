@@ -2,16 +2,18 @@
 **yttrion/yttrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Pierre-Yves</h1>
-<h3 align="center">An french engineering student</h3>
+<h3 align="center">A french engineering student</h3>
 
 ## :book: About me:
 - Engineering student at [ESEO](https://eseo.fr/en/)
-- Studying Cloud, Systems and Security
-- Currently workint at [Maynooth University](https://www.maynoothuniversity.ie/) and [IVI](https://ivi.ie)
+- Cybersecurity internship at [Maynooth University](https://www.maynoothuniversity.ie/) and [IVI](https://ivi.ie) (July 2020 - October 2020)
+- Studying in the Cloud, Systems and Security option
+- 
 - btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 ## 🌱 I'm currently learning:
-- Haskell
-- Pentesting
+- Php
+- Social engineering
+- Docker
 - Vimscript
 ## :gear: I'm working on
 - <a href="https://github.com/yttrion/doomnvim">doomnvim</a> - A neovim distribution for the enhanced martian hacker
