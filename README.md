@@ -7,8 +7,7 @@
 ## :book: About me:
 - Engineering student at [ESEO](https://eseo.fr/en/)
 - Cybersecurity internship at [Maynooth University](https://www.maynoothuniversity.ie/) and [IVI](https://ivi.ie) (July 2020 - October 2020)
-- Studying in the Cloud, Systems and Security option
-- 
+- Studying engineering in the Cloud, Systems and Security option
 - btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 ## 🌱 I'm currently learning:
 - Php
