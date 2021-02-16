@@ -41,10 +41,21 @@
   <img src="https://img.shields.io/badge/-Latex-1bc0b7?style=for-the-badge&logo=latex&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Windows-1075da?style=for-the-badge&logo=windows&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-OSX-cfd0d0?style=for-the-badge&logo=apple&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Linux-ffa600?style=for-the-badge&logo=linux&logoColor=ffffff" />
-	<!--
+  <img src="https://img.shields.io/badge/-Raspberry-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" />
   <img src="https://img.shields.io/badge/-FreeBSD-fa3f05?style=for-the-badge&logo=freebsd&logoColor=ffffff" />
-	-->
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=ffffff" />
+
+
+</p>
+
+## Other
+<p align="center">
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=fff" />
 </p>
 
 <!--
