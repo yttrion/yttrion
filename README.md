@@ -10,10 +10,10 @@
 - Studying engineering in the Cloud, Systems and Security option
 - btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 ## 🌱 I'm currently learning:
-- Php
+- Ansible
 - Social engineering
-- Docker
-- Vimscript
+- FreeBSD
+- CCNA
 ## :gear: I'm working on
 - <a href="https://github.com/yttrion/doomnvim">doomnvim</a> - A neovim distribution for the enhanced martian hacker
 
@@ -31,15 +31,15 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Haskell-D8D8D8?style=for-the-badge&logo=haskell&logoColor=000000" />
   <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=php&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-SQLite-1d97e2?style=for-the-badge&logo=sqlite&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/-Vim-3c873a?style=for-the-badge&logo=vim&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Latex-1bc0b7?style=for-the-badge&logo=latex&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Windows-1075da?style=for-the-badge&logo=windows&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-OSX-cfd0d0?style=for-the-badge&logo=apple&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Linux-ffa600?style=for-the-badge&logo=linux&logoColor=ffffff" />
@@ -48,14 +48,17 @@
   <img src="https://img.shields.io/badge/-FreeBSD-fa3f05?style=for-the-badge&logo=freebsd&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=ffffff" />
-
-
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff" />	
+	
 </p>
 
 ## Other
 <p align="center">
+  <img src="https://img.shields.io/badge/-Ableton-000?style=for-the-badge&logo=ableton-live&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=fff" />
 </p>
 
 <!--
