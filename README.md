@@ -25,31 +25,18 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-1AA946?style=for-the-badge&logo=c&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Haskell-D8D8D8?style=for-the-badge&logo=haskell&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=php&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" />
-  <img src="https://img.shields.io/badge/-Vim-3c873a?style=for-the-badge&logo=vim&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Latex-1bc0b7?style=for-the-badge&logo=latex&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-OSX-cfd0d0?style=for-the-badge&logo=apple&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Linux-ffa600?style=for-the-badge&logo=linux&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Raspberry-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-FreeBSD-fa3f05?style=for-the-badge&logo=freebsd&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff" />	
 	
 </p>
 
